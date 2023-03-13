@@ -1,3 +1,3 @@
 # Actors-page
 
-New responsive landing page. Add slider and navigation 😼👍
+This is a new responsive landing page. I added slider and navigation 😼👍
