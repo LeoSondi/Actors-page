@@ -443,6 +443,7 @@ body {
   border-radius: inherit;
 }
 .images-main__item img {
+  object-fit: cover;
   border-radius: inherit;
   width: 100%;
   height: auto;
